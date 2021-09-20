@@ -21,8 +21,8 @@ Year: 2020
 
 
 ### Grass
-<img src="demo/5.png" alt="Grass" width="300"/>  <img src="demo/6.png" alt="Grass" width="300"/>  <br>
-<img src="demo/7.png" alt="Grass" width="300"/>  <img src="demo/8.png" alt="Grass" width="300"/>  <img src="demo/9.png" alt="Grass" width="300"/>  
+<img src="demo/5.png" alt="Grass" width="270"/>  <img src="demo/6.png" alt="Grass" width="270"/>  <br>
+<img src="demo/7.png" alt="Grass" width="270"/>  <img src="demo/8.png" alt="Grass" width="270"/>  <img src="demo/9.png" alt="Grass" width="270"/>  
 
 
 ### Crate
@@ -32,11 +32,11 @@ Year: 2020
 <img src="demo/11.png" alt="Rock" width="300"/>
 
 ### Tiles
-<img src="demo/12.png" alt="Tiles" width="300"/>  <img src="demo/13.png" alt="Tiles" width="300"/>  <br>
-<img src="demo/14.png" alt="Tiles" width="300"/>  <img src="demo/15.png" alt="Tiles" width="300"/>  <img src="demo/16.png" alt="Tiles" width="300"/>  
+<img src="demo/12.png" alt="Tiles" width="270"/>  <img src="demo/13.png" alt="Tiles" width="270"/>  <br>
+<img src="demo/14.png" alt="Tiles" width="270"/>  <img src="demo/15.png" alt="Tiles" width="270"/>  <img src="demo/16.png" alt="Tiles" width="270"/>  
 
 ### Trees
-<img src="demo/17.png" alt="Trees" width="300"/>  <img src="demo/18.png" alt="Trees" width="300"/>  <br>
+<img src="demo/17.png" alt="Trees" width="270"/>  <img src="demo/18.png" alt="Trees" width="270"/>  <br>
 <img src="demo/19.png" alt="Trees" width="270"/>  <img src="demo/20.png" alt="Trees" width="270"/>  <img src="demo/21.png" alt="Trees" width="270"/>  
 
 
