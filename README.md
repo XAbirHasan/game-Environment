@@ -2,14 +2,17 @@
    
 Low poly 3d game environment made using blender. 2020
 
-Some low poly game environment I made for my game in 2020. It inclueds bushes, coins, grass, crate, rock, tiles and trees.
+Some low poly game environment I made for my game in 2020. It includes bushes, coins, grass, crate, rock, tiles and trees.
 
  ## Project description
 Name: game-Environment <br>
 Software: Blender<br>
 platform: 3D <br>
-Project No: 23 <br>
+Project No: 22 <br>
 Year: 2020
+
+## Demo Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/VShcgFHrPXI/0.jpg)](http://www.youtube.com/watch?v=VShcgFHrPXI "3d game environment || blender project")
 
 ## Screen shot
 
